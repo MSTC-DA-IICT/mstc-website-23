@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mstc-website-23/static/css/main.a91b4c27.css",
-    "main.js": "/mstc-website-23/static/js/main.5b3d5f3d.js",
+    "main.css": "/mstc-website-23/static/css/main.0ce5b90b.css",
+    "main.js": "/mstc-website-23/static/js/main.21890fd2.js",
     "static/js/787.d97b1742.chunk.js": "/mstc-website-23/static/js/787.d97b1742.chunk.js",
     "index.html": "/mstc-website-23/index.html",
-    "main.a91b4c27.css.map": "/mstc-website-23/static/css/main.a91b4c27.css.map",
-    "main.5b3d5f3d.js.map": "/mstc-website-23/static/js/main.5b3d5f3d.js.map",
+    "main.0ce5b90b.css.map": "/mstc-website-23/static/css/main.0ce5b90b.css.map",
+    "main.21890fd2.js.map": "/mstc-website-23/static/js/main.21890fd2.js.map",
     "787.d97b1742.chunk.js.map": "/mstc-website-23/static/js/787.d97b1742.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a91b4c27.css",
-    "static/js/main.5b3d5f3d.js"
+    "static/css/main.0ce5b90b.css",
+    "static/js/main.21890fd2.js"
   ]
 }
