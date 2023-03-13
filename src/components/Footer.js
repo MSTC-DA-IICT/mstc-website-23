@@ -39,10 +39,10 @@ export default function Footer() {
                 <div className="block my-5 sm:my-4 text-center sm:text-start text-md">
                     <div className="mb-1"><b>Connect With Us</b></div>
                     <div className="flex shrink items-center justify-center sm:justify-start my-3 gap-4 mb-6">
-                        <a href="https://www.instagram.com"><img className="h-7" src={process.env.PUBLIC_URL + "/images/github.png"} alt="Github"/></a>
-                        <a href="https://www.instagram.com"><img className="h-7" src={process.env.PUBLIC_URL + "/images/linkedin.png"} alt="LinkedIn"/></a>
-                        <a href="https://www.instagram.com"><img className="h-6" src={process.env.PUBLIC_URL + "/images/yt.png"} alt="Youtube"/></a>
-                        <a href="https://www.instagram.com"><img className="h-7" src={process.env.PUBLIC_URL + "/images/insta.png"} alt="Instagram"/></a>
+                        <a href="https://github.com/MSTC-DA-IICT"><img className="h-7" src={process.env.PUBLIC_URL + "/images/github.png"} alt="Github"/></a>
+                        <a href="https://www.youtube.com/@mstcda-iict9181"><img className="h-7" src={process.env.PUBLIC_URL + "/images/linkedin.png"} alt="LinkedIn"/></a>
+                        <a href="https://www.youtube.com/@mstcda-iict9181"><img className="h-6" src={process.env.PUBLIC_URL + "/images/yt.png"} alt="Youtube"/></a>
+                        <a href="https://www.instagram.com/mstc_daiict/"><img className="h-7" src={process.env.PUBLIC_URL + "/images/insta.png"} alt="Instagram"/></a>
                     </div>
                     <div className="mb-1"><b>Email</b></div>
                         <a href="mailto: microsoftclub@daiict.ac.in" className="hover:text-cyan-400">

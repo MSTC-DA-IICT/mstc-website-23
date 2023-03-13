@@ -51,18 +51,18 @@ class App extends React.Component {
   render() {
     return(
     <BrowserRouter  basename='mstc-website-23'>
-    <ScrollToTop />
-    <div id="parent" ref={this.vantaRef} className='min-h-screen'>
-    <Navbar className="z-2"/>
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/events" element={<Events />} />
-      <Route path="/members" element={<Members />} />
-      <Route path="/contact-us" element={<ContactUs />} />
-    </Routes>
-    <Footer/>
-    </div>
-  </BrowserRouter>
+      <ScrollToTop />
+      <div id="parent" ref={this.vantaRef} className='min-h-screen'>
+      <Navbar className="z-2"/>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/events" element={<Events />} />
+        <Route path="/members" element={<Members />} />
+        <Route path="/contact-us" element={<ContactUs />} />
+      </Routes>
+      <Footer/>
+      </div>
+    </BrowserRouter>
     )
   }
 }

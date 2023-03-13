@@ -7,7 +7,7 @@ export default function Home(){
     return(
         <>
         <Div100vh className="flex flex-col lg:flex-row bg-black/[.5] justify-center gap-x-10 pt-32 md:pt-36 lg:pt-0 md:justify-start lg:items-center min-h-full w-full text-white px-12 sm:px-24 md:px-32 lg:px-40">
-            <div className='flex grow justify-center md:justify-start'>
+            <div className='flex grow justify-center md:justify-start h-80'>
                 <TypeAnimation
                 sequence={[
                     `Microsoft\nStudent\nTechnical\nClub,\nDA-IICT`, 
