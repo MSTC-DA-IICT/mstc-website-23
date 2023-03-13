@@ -1,0 +1,10 @@
+{
+  "short_name": "MSTC Website",
+  "name": "Microsoft Student Technical Club, DA-IICT",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
