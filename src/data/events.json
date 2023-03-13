@@ -1,0 +1,152 @@
+[
+    {
+        "title":"Winter Of Code",
+        "events":[
+            {
+                "name":"WoC 5.0",
+                "img":"/events/woc5.png",
+                "description":"Microsoft Imagine (previously known as Dreamspark.",
+                "listTitle":"Projects",
+                "list":[
+                    "Android : Social Media App",
+                    "React JS : Menu App",
+                    "Node JS : Job Portal",
+                    "Machine Learning : Weather Prediction Case Study",
+                    "Django : Interview Experience Blog",
+                    "HTML, CSS & Javascript : Expense Tracker",
+                    "Python : Document Editor",
+                    "UI/UX Design And Prototyping"
+                ]
+            },
+            {
+                "name":"WoC 4.0",
+                "img":"/events/woc4.png",
+                "description":"Microsoft Imagine (previously ",
+                "listTitle":"Projects",
+                "list":[
+                    "Android : News App",
+                    "React JS : Bingewatcher's Twitter",
+                    "Node JS : Blog Web App",
+                    "Machine Learning : Sentiment Analysis",
+                    "Django : Event Manager Web App",
+                    "HTML, CSS & Javascript : Notes App",
+                    "Python : Image Editor",
+                    "UI/UX Design And Prototyping"
+                ]
+            },
+            {
+                "name":"WoC 3.0",
+                "img":"/events/woc3.png",
+                "description":"Microsoft Imagine (previously known as Dreamspark.",
+                "listTitle":"Projects",
+                "list":[
+                    "Android : Real-time Chat App",
+                    "Django : Event Manager Web App",
+                    "Javascript : Keypress Information Visualizer",
+                    "Web-Scraping : E-commerce Price Tracker",
+                    "Python : RPG Discord Bot",
+                    "UI/UX Design And Prototyping"
+                ]
+            },
+            {
+                "name":"WoC 2.0",
+                "img":"/events/woc2.png",
+                "description":"MSTC conducted the second edition of Winter of Code (WoC 2.0) from Dec '19 to Jan '20. It proved to be a great platform for budding web developers as they could encash the opporunity to learn new a technology from sratch and build a project, utilizing the stuff they had learnt. The participants were guided by experienced student mentors throughout the course of the event.",
+                "listTitle":"Projects",
+                "list":[
+                    "Android : Password Manager",
+                    "Android : Movie Search App",
+                    "Javascript : Quiz Game",
+                    "Data Science :  Profitable App Profiles",
+                    "Django : Visitor Management System",
+                    "Python : To-Do List App"
+                ]
+            },
+            {
+                "name":"WoC 1.0",
+                "img":"/events/woc1.png",
+                "description":"Microsoft Imagine (previously known as Dreamspark.",
+                "listTitle":"Projects",
+                "list":[
+                    "Android : Password Manager",
+                    "Game Development : Ping Pong Game",
+                    "Javascript : Quiz Game",
+                    "Django :  URL Shortner",
+                    "Web-Scraping : E-commerce Price Tracker",
+                    "Python : To-Do List App",
+                    "HTML, CSS & Javascript : One-page Responsive Website"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Face Off",
+        "events":[
+            {
+                "name":"Face Off 2.0",
+                "img":"/events/faceoff2.png",
+                "description":"Microsoft Imagine (previously known as Dreamspark.",
+                "listTitle":"Contests",
+                "list":[
+                    ["Qualifiers", "https://www.codechef.com/FAQ22021"],
+                    ["Round of 32", "https://www.codechef.com/FAT12021"],
+                    ["Round of 16", "https://www.codechef.com/FOT22021 "],
+                    ["Round of 8", "https://www.codechef.com/FT822021"],
+                    ["Round of 4", "https://www.codechef.com/FT422021"],
+                    ["Finals", "https://www.codechef.com/FOF22021"]
+                ]
+            },
+            {
+                "name":"Face Off 1.0",
+                "img":"/events/faceoff1.png",
+                "description":"Microsoft Imagine (previously known as Dreamspark.",
+                "listTitle":"Contests",
+                "list":[
+                    ["Qualifiers", "https://www.codechef.com/FAQ22021"],
+                    ["Round of 32", "https://www.codechef.com/FAT12021"],
+                    ["Round of 16", "https://www.codechef.com/FOT22021 "],
+                    ["Round of 8", "https://www.codechef.com/FT822021"],
+                    ["Round of 4", "https://www.codechef.com/FT422021"],
+                    ["Finals", "https://www.codechef.com/FOF22021"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Hacktoberfest",
+        "events":[
+            {
+                "name":"Hacktoberfest 2022",
+                "img":"/events/hacktoberfest22.png",
+                "description":"Microsoft Imagine (previously known as Dreamspark.",
+                "listTitle":"Repositories",
+                "list":[
+                    ["E-Learn-App-Django", "https://github.com/MSTC-DA-IICT/Hacktoberfest22-E-Learn-App-Django"],
+                    ["Fun-with-JS", "https://github.com/MSTC-DA-IICT/Hacktoberfest22-Fun-with-JS"],
+                    ["Blog-App", "https://github.com/MSTC-DA-IICT/Hacktoberfest22-Blog-App"],
+                    ["R-for-React", "https://github.com/MSTC-DA-IICT/Hacktoberfest22-R-for-React"],
+                    ["Mess-with-ML", "https://github.com/MSTC-DA-IICT/HacktoberFest22-Mess-with-ML"],
+                    ["Awesome-Android", "https://github.com/MSTC-DA-IICT/Hacktoberfest22-Awesome-Android"],
+                    ["Play-with-Python", "https://github.com/MSTC-DA-IICT/HacktoberFest22-Play-with-Python"],
+                    ["Dare-2-Design", "https://github.com/MSTC-DA-IICT/Hacktoberfest22-dare-2-design"]
+                ]
+            },
+            {
+                "name":"Hacktoberfest 2021",
+                "img":"/events/hacktoberfest21.png",
+                "description":"Microsoft Imagine (previously known as Dreamspark.",
+                "listTitle":"Repositories",
+                "list":[
+                    ["Movie-WatchList", "https://github.com/MSTC-DA-IICT/Movie-WatchList"],
+                    ["B-for-Blog", "https://github.com/MSTC-DA-IICT/B-for-Blog"],
+                    ["Data-Science-Machine-Learning", "https://github.com/MSTC-DA-IICT/Data-Science-Machine-Learning"],
+                    ["Sun-Chokdi", "https://github.com/MSTC-DA-IICT/Sun-Chokdi"],
+                    ["REST-API-Node", "https://github.com/MSTC-DA-IICT/REST-API-Node"],
+                    ["OpenScripts", "https://github.com/MSTC-DA-IICT/OpenScripts"],
+                    ["We-demy", "https://github.com/MSTC-DA-IICT/We-demy"],
+                    ["React Portfolio", "https://github.com/MSTC-DA-IICT/react-portfolio"]
+                ]
+            }
+        ]
+    }
+]

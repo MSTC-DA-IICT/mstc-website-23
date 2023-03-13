@@ -1,0 +1,19 @@
+nav{
+    z-index: 3 !important;
+}
+
+canvas{
+    z-index: -1 !important;
+    min-height: 100vh;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Debug */
+
+/* *{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
+} */
