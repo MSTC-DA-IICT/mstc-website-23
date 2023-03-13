@@ -11,7 +11,7 @@ export default function Members(){
             {MemberData.map((member) => (
                 <div className='rounded-xl md:w-3/6 lg:w-2/6 py-6 md:px-6'>
                     <div className='bg-black/[.4] backdrop-blur-md rounded-xl'>
-                        <img className="rounded-xl object-cover w-full aspect-square"
+                        <img className="rounded-xl object-cover w-full aspect-square" loading="lazy"
                         src={process.env.PUBLIC_URL + "/images/members/" + member.name.split(" ").join("") + ".jpg"}
                         alt={member.name}/>
                         <div className='flex justify-between items-center px-3 py-3'>

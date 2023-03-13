@@ -46,7 +46,7 @@ export default function Events(){
                     bg-cover bg-center rounded-xl"
                     style={{backgroundImage: ("url(/images" + event.img + ")" )}}>
                         <div className="flex items-center h-full w-full backdrop-blur-xl rounded-xl backdrop-brightness-75">
-                            <img src={process.env.PUBLIC_URL + '/images' + event.img } alt={event.name} 
+                            <img loading="lazy" src={process.env.PUBLIC_URL + '/images' + event.img } alt={event.name} 
                             className="backdrop-blur-xl backdrop-brightness-75 rounded-xl object-contain w-full max-h-80 "/>
                         </div>
                     </div>

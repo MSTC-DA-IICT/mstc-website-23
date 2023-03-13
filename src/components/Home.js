@@ -1,6 +1,7 @@
 import { TypeAnimation } from 'react-type-animation';
 import Div100vh from 'react-div-100vh'
 import TechStack from '../data/techstack.json';
+import 'animate.css'
 
 export default function Home(){
     return(
@@ -52,9 +53,9 @@ export default function Home(){
                 </div>
                 <div className='grid md:grid-cols-4 lg:grid-cols-5 gap-4 items-center'>
                 {TechStack.map((ts) => (
-                    <div className='bg-black/[.25] h-full px-8 p-4 md:px-6 rounded-xl'>
+                    <div className='animate__animated animate__fadeIn bg-black/[.25] h-full px-8 p-4 md:px-6 rounded-xl'>
                         <div className='h-full flex items-center justify-center'>
-                            <img className='max-h-20' src={process.env.PUBLIC_URL + '/images/tech/' + ts.src} alt={ts.name}/>
+                            <img loading="lazy" className='max-h-20' src={process.env.PUBLIC_URL + '/images/tech/' + ts.src} alt={ts.name}/>
                         </div>
                     </div>
                 ))}
